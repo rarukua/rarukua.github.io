@@ -3,7 +3,7 @@
     "name": "Zitong (Amelie) Gao",
     "label": "Scientist",
     "image": "",
-    "email": "rarukuaomine at gmail dot com",
+    "email": "rarukuaomine [at] gmail [dot] com",
     "summary": "PhD in Molecular Biosciences and Bioengineering, USPTO Registered Patent Agent"
   },
 
@@ -28,24 +28,21 @@
       "location": "Honolulu, HI",
       "area": "Molecular Biosciences and Bioengineering",
       "studyType": "PhD",
-      "startDate": "Jan 2020",
-      "endDate": "Dec 2025"
+      "date": "2025"
     },
     {
       "institution": "Peking Union Medical College, Tsinghua University",
       "location": "Beijing, China",
       "area": "Pharmacognosy",
       "studyType": "Master",
-      "startDate": "Sep 2016",
-      "endDate": "Jul 2019"
+      "date": "2019"
     },
     {
       "institution": "Northwest A&F University",
       "location": "Xi'an, China",
       "area": "Biotechnology",
       "studyType": "Bachelor",
-      "startDate": "Sep 2012",
-      "endDate": "Jul 2016"
+      "date": "2016"
     }
   ],
 
@@ -89,19 +86,7 @@
     {
       "name": "Programming, Data Analysis, and Experimental Validation",
       "keywords": [
-        "Python",
-        "R",
-        "Linux",
-        "Biostatistical Modeling",
-        "Machine Learning",
-        "Deep Learning",
-        "DNA/RNA extraction",
-        "NGS library preparation",
-        "PCR",
-        "RT-qPCR",
-        "Cell culture",
-        "TOPO cloning",
-        "CLASH"
+        "Python","R","Linux","Biostatistical Modeling","Machine Learning","Deep Learning","DNA/RNA extraction","NGS library preparation","PCR","RT-qPCR","Cell culture","TOPO cloning","CLASH"
       ]
     }
   ],
