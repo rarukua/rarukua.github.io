@@ -20,12 +20,9 @@
       "startDate": "Jan, 2020",
       "endDate": "Dec, 2025",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Enhanced microRNA/piRNA Target Prediction Model Using Transformers and Base-Pairing Patterns(Deep
-Learning, Sequence Models)"],
-       "highlights":["Optimized Random Forest Model combined with Logistic Regression for Non-small cell lung cancer diagnosis
-using PIWI-interacting RNA (piRNA) (Machine Learning, Binary Classification, Statistics)"],
-       "highlights":["Applied ML models to Identify Promising Diagnostic and Prognostic Signatures With Clinical Characteristics from
-tRNA derived fragments (tRDF) (Machine Learning, Binary Classification, Statistics, Survival Analysis)"]
+      "highlights": ["Enhanced microRNA/piRNA Target Prediction Model Using Transformers and Base-Pairing Patterns(Deep Learning, Sequence Models)"],
+       "highlights":["Optimized Random Forest Model combined with Logistic Regression for Non-small cell lung cancer diagnosis using PIWI-interacting RNA (piRNA) (Machine Learning, Binary Classification, Statistics)"],
+       "highlights":["Applied ML models to Identify Promising Diagnostic and Prognostic Signatures With Clinical Characteristics from tRNA derived fragments (tRDF) (Machine Learning, Binary Classification, Statistics, Survival Analysis)"]
     }
   ],
   
