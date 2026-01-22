@@ -4,14 +4,7 @@
     "label": "Scientist",
     "image": "",
     "email": "rarukuaomine at gmail dot com",
-    "summary": "PhD in Molecular Biosciences and Bioengineering, USPTO Registered Patent Agent",
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": "PhD in Molecular Biosciences and Bioengineering, USPTO Registered Patent Agent"
   },
   "Research Experience": [
     {
@@ -20,9 +13,11 @@
       "startDate": "Jan, 2020",
       "endDate": "Dec, 2025",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Enhanced microRNA/piRNA Target Prediction Model Using Transformers and Base-Pairing Patterns(Deep Learning, Sequence Models)"],
-       "highlights":["Optimized Random Forest Model combined with Logistic Regression for Non-small cell lung cancer diagnosis using PIWI-interacting RNA (piRNA) (Machine Learning, Binary Classification, Statistics)"],
-       "highlights":["Applied ML models to Identify Promising Diagnostic and Prognostic Signatures With Clinical Characteristics from tRNA derived fragments (tRDF) (Machine Learning, Binary Classification, Statistics, Survival Analysis)"]
+      "highlights": [
+        "Enhanced microRNA/piRNA Target Prediction Model Using Transformers and Base-Pairing Patterns(Deep Learning, Sequence Models)",
+        "Optimized Random Forest Model combined with Logistic Regression for Non-small cell lung cancer diagnosis using PIWI-interacting RNA (piRNA) (Machine Learning, Binary Classification, Statistics)",
+        "highlights":["Applied ML models to Identify Promising Diagnostic and Prognostic Signatures With Clinical Characteristics from tRNA derived fragments (tRDF) (Machine Learning, Binary Classification, Statistics, Survival Analysis)"
+        ]
     }
   ],
   
@@ -88,19 +83,34 @@
   ]
   "skills": [
     {
-      "name": "R, Python, Linux, Biostatistical Model",
+      "name": "Programming,Data Analysis and Experimental Validation",
+      "keywords": [
+        "Python",
+        "R",
+        "Linux",
+        "Biostatistical Modeling",
+        "Machine Learning",
+        "Deep Learning",
+        "DNA/RNA extraction", 
+        "NGS library preparation", 
+        "PCR", 
+        "RT-qPCR", 
+        "Cell culture", 
+        "TOPO-Clone", 
+        "CLASH"
+      ]
 
     }
   ],
   "languages": [
     {
       "language": "Mandrin",
-      "fluency": "Native speaker",
+      "fluency": "Native or bilingual proficiency",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Native or bilingual proficiency",
       "icon": ""
     }
   ],
