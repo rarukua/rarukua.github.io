@@ -95,3 +95,9 @@
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    
+- title: Professional Memberships
+  type: list
+  contents:
+    - American Association for Cancer Research
+
