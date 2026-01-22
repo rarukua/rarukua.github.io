@@ -2,102 +2,89 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Zitong (Amelie) Gao
+    - name: Label
+      value: Scientist
+    - name: Email
+      value: rarukuaomine [at] gmail [dot] com
+    - name: Summary
+      value: PhD in Molecular Biosciences and Bioengineering, USPTO Registered Patent Agent
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Molecular Biosciences and Bioengineering
+      institution: University of Hawaiʻi at Mānoa
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Honolulu, HI
+    - title: Master, Pharmacognosy
+      institution: Peking Union Medical College, Tsinghua University
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Beijing, China
+    - title: Bachelor, Biotechnology
+      institution: Northwest A&F University
+      year: 2016
+      description:
+        - Xi'an, China
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Assistant
+      institution: Bioinformatics Core, John A. Burns School of Medicine, University of Hawaiʻi at Mānoa Cancer Center
+      year: Jan 2020 - Dec 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Interdisciplinary research in cancer bioinformatics, small RNA biology, and machine learning.
+        - title: Selected highlights
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+            - Enhanced microRNA and piRNA target prediction using transformer-based sequence models and base-pairing patterns.
+            - Optimized Random Forest combined with Logistic Regression for non-small cell lung cancer diagnosis using piRNA biomarkers.
+            - Applied machine learning models to identify diagnostic and prognostic signatures from tRNA-derived fragments with integrated clinical characteristics.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Certificates
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: USPTO Registered Patent Agent
+      institution: United States Patent and Trademark Office
+      year: Nov 25, 2025
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - University of Hawaii Giving Tree Scholarship
+    - year: 2023
       items:
-        - Max Planck Medal
+        - University of Hawaii Giving Tree Scholarship
+    - year: 2022
+      items:
+        - University of Hawaii Cancer Center Travel Award
+    - year: 2021 - 2024
+      items:
+        - Friends of the Cancer Center and Clinical Labs Fellowship
+    - year: 2019
+      items:
+        - Top 10 Scientific Research Output in Graduates, Peking Union Medical College
+    - year: 2016 - 2017
+      items:
+        - First Class Scholarship, Excellent Graduate Student, Peking Union Medical College
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-    
+    - "Programming and Data Analysis: Python, R, Linux, Biostatistical Modeling, Machine Learning, Deep Learning"
+    - "Experimental: DNA/RNA extraction, NGS library preparation, PCR, RT-qPCR, Cell culture, TOPO cloning, CLASH"
+
+- title: Languages
+  type: list
+  contents:
+    - Mandarin (Native or bilingual proficiency)
+    - English (Native or bilingual proficiency)
+
 - title: Professional Memberships
   type: list
   contents:
     - American Association for Cancer Research
-
