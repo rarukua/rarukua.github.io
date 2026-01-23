@@ -1,4 +1,9 @@
-:root {
-  --global-theme-color: #0d47a1;   /* accent color (links, highlights) */
-  --global-hover-color: #0d47a1;   /* hover color */
-}
+/* Primary accent color */
+$theme-color: #ded0b8 !default;
+
+/* Link colors */
+$link-color: #e6d5ba !default;
+$link-hover-color: darken(#e6d5ba, 10%) !default;
+
+/* Buttons / highlights */
+$primary: #ded0b8 !default;
