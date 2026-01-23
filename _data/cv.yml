@@ -4,7 +4,7 @@
     - name: Full Name
       value: Zitong (Amelie) Gao
     - name: Label
-      value: Scientist
+      value: Bioformatics Scientist, Patent Agent
     - name: Email
       value: rarukuaomine [at] gmail [dot] com
     - name: Summary
@@ -87,4 +87,4 @@
 - title: Professional Memberships
   type: list
   contents:
-    - American Association for Cancer Research
+    - American Association for Cancer Research(AACR)
