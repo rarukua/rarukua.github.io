@@ -91,9 +91,9 @@ ninja.data = [{
           description: "Transformer-based miRNA–mRNA interaction prediction using CLASH-seq",
           section: "Projects",handler: () => {
               window.location.href = "/projects/comims/";
-            },},{id: "projects-novel-non-small-cell-lung-cancer-diagnosis-panel-from-small-rna-pirna",
-          title: 'Novel non-small cell lung cancer diagnosis panel from small RNA - piRNA',
-          description: "with background image",
+            },},{id: "projects-novel-nsclc-diagnosis-panel-from-small-rna-pirna",
+          title: 'Novel NSCLC diagnosis panel from small RNA (piRNA)',
+          description: "piTPI risk score for early-stage NSCLC",
           section: "Projects",handler: () => {
               window.location.href = "/projects/piRNA/";
             },},{
