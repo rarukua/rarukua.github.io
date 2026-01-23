@@ -2,17 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: "" # the website title (if blank, full name will be used instead)
 first_name: Zitong
 middle_name: (Amelie)
 last_name: Gao
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best way to reach me: email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 email: rarukuaomine [at] gmail [dot] com
-linkedin_username: https://www.linkedin.com/in/zitong-gao-6824131a5/
-google_scholar_userid: https://scholar.google.com/citations?user=eHZrfg4AAAAJ&hl
+linkedin_username: zitong-gao-6824131a5
+google_scholar_userid: eHZrfg4AAAAJ
+github_username: rarukua
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
