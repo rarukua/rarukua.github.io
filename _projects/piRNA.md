@@ -3,7 +3,7 @@ layout: project
 title: Novel NSCLC diagnosis panel from small RNA (piRNA)
 description: piTPI risk score for early-stage NSCLC
 importance: 1
-thumbnail: assets/img/projects/piTPI/graphical_abstract.jpg
+thumbnail: assets/img/piTPI/graphical_abstract.jpg
 ---
 ## Overview
 
@@ -15,7 +15,7 @@ Non-small cell lung cancer (NSCLC) is a lethal cancer and lacks robust biomarker
   alt="Graphical abstract of the pi-TPI model for NSCLC diagnosis"
 %}
 
-![Overview](assets/img/projects/piTPI/fig1.jpg)
+![Overview](assets/img/piTPI/fig1.jpg)
 
 ---
 
