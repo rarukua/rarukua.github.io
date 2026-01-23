@@ -51,9 +51,9 @@ ninja.data = [{
           description: "piTPI risk score for early-stage NSCLC",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-comprehensive-landscape-of-trna-derived-fragments-in-lung-cancer",
+          title: 'Comprehensive landscape of tRNA-derived fragments in lung cancer',
+          description: "tDRF and its potential in lung cancer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
