@@ -40,7 +40,13 @@
         - Optimized Random Forest combined with Logistic Regression for non-small cell lung cancer diagnosis using piRNA biomarkers.
         - Applied machine learning models to identify diagnostic and prognostic signatures from tRNA-derived fragments with integrated clinical characteristics.
         
-
+     - title: Research Assistant
+      institution: Institute of Medicinal Plant Development, Peking Union Medical College, Tsinghua University
+      year: 2016 - 2019
+      description:
+        - Identified nucleotide signatures conservative and unique to medicinal plants using BLAST, MEGA and phylogenetic trees. 
+        - Designed species-specific primer pairs for nucleotide signatures and validated its feasibility through DNA extraction from traditional Chinese medicines and Chinese patent medicines, PCR amplification, gel electrophoresis,sanger sequencing, and TOPO cloning.
+        
 - title: Certificates
   type: time_table
   contents:
