@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Novel non-small cell lung cancer diagnosis panel from small RNA - piRNA
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/graphical abtract.pdf
 importance: 1
 category: work
 related_publications: true
@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
+    title: A Robust Machine Learning Model Based On Ribosomal Subunit Derived piRNAs For Diagnostic Potential Of Non-Small Cell Lung Cancer Across Multi-Center, Large-Scale Of Sequencing Data
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
