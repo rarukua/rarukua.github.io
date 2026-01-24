@@ -46,12 +46,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-comprehensive-landscape-of-trna-derived-fragments-in-lung-cancer",
-          title: 'Comprehensive landscape of tRNA-derived fragments in lung cancer',
-          description: "tDRF profiling, diagnostic signatures, plasma validation, and immunotherapy associations",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
+          section: "News",},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
@@ -86,6 +81,11 @@ ninja.data = [{
           description: "piTPI risk score for early-stage NSCLC",
           section: "Projects",handler: () => {
               window.location.href = "/projects/piRNA/";
+            },},{id: "projects-comprehensive-landscape-of-trna-derived-fragments-in-lung-cancer",
+          title: 'Comprehensive landscape of tRNA-derived fragments in lung cancer',
+          description: "tDRF profiling, diagnostic signatures, plasma validation, and immunotherapy associations",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tRDF/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
