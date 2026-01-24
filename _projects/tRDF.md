@@ -7,6 +7,14 @@ description: tDRF profiling, diagnostic signatures, plasma validation, and immun
 category: work
 importance: 3
 ---
+**Paper:** 
+Comprehensive landscape of tRNA-derived fragments in lung cancer, Molecular Therapy – Oncolytics, 2022
+
+<p>
+  <a href="10.1016/j.omto.2022.07.002" target="_blank" rel="noopener">
+    Read the article (DOI)
+  </a>
+</p>
 
 ## Overview
 **Highlight:** Six tRDF diagnostic signatures achieve AUC up to 0.90; selected signatures validated in plasma and linked to cell cycle and PD-L1 pathways.
