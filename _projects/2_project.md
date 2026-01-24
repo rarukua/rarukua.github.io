@@ -21,12 +21,7 @@ Non-small cell lung cancer (NSCLC) is a lethal cancer and lacks robust biomarker
     <div class="col-md-4">
         {% include figure.liquid loading="eager" path="assets/img/piTPI/figure2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-md-4">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-4">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+    
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
