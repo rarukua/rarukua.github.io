@@ -8,9 +8,7 @@ category: work
 giscus_comments: true
 ---
 **Paper:** 
-Comprehensive landscape of tRNA-derived fragments in lung cancer
-Zitong Gao, M. Jijiwa, M. Nasu, and H. Borgard, T. Gong, J. Xu, S. Chen, Y. Fu, Y. Chen, X. Hu, G. Huang, Youping Deng
-Molecular Therapy – Oncolytics, 2022
+Comprehensive landscape of tRNA-derived fragments in lung cancer, Molecular Therapy – Oncolytics, 2022
 
 <p>
   <a href="10.1016/j.omto.2022.07.002" target="_blank" rel="noopener">
