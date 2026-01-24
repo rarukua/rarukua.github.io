@@ -53,7 +53,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-comprehensive-landscape-of-trna-derived-fragments-in-lung-cancer",
           title: 'Comprehensive landscape of tRNA-derived fragments in lung cancer',
-          description: "tDRF and its potential in lung cancer",
+          description: "tDRF profiling, diagnostic signatures, plasma validation, and immunotherapy associations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
