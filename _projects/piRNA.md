@@ -8,7 +8,7 @@ category: work
 giscus_comments: true
 ---
 **Paper:** Comprehensive landscape of tRNA-derived fragments in lung cancer
-<p><strong>Paper:</strong>
+<p>
   <a href="10.1016/j.omto.2022.07.002" target="_blank" rel="noopener">
     Read the article (DOI)
   </a>
