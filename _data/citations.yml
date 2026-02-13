@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-13'
 papers:
   eHZrfg4AAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -18,7 +18,7 @@ papers:
     title: "A robust machine learning model based on ribosomal\u2010subunit\u2010derived piRNAs for diagnostic potential of nonsmall cell lung cancer across multicentre, large\u2010scale of sequencing data"
     year: '2025'
   eHZrfg4AAAAJ:4TOpqqG69KYC:
-    citations: 17
+    citations: 18
     title: "Pan\u2010cancer analyses of bromodomain containing 9 as a novel therapeutic target reveals its diagnostic, prognostic potential and biological mechanism in human tumours"
     year: '2024'
   eHZrfg4AAAAJ:5nxA0vEk-isC:
@@ -50,7 +50,7 @@ papers:
     title: Six potential biomarkers for non-small cell lung cancer diagnosis and prognosis
     year: '2022'
   eHZrfg4AAAAJ:Tyk-4Ss8FVUC:
-    citations: 7
+    citations: 8
     title: Progress on research of tissue culture of Bletilla striata
     year: '2018'
   eHZrfg4AAAAJ:ULOm3_A8WrAC:
@@ -74,7 +74,7 @@ papers:
     title: Mechanisms of Chinese medical formula Fangji Huangqi Decoction as an effective treatment of nephrotic syndrome based on systems pharmacology
     year: Unknown Year
   eHZrfg4AAAAJ:YsMSGLbcyi4C:
-    citations: 515
+    citations: 514
     title: Risk factors associated with clinical outcomes in 323 coronavirus disease 2019 (COVID-19) hospitalized patients in Wuhan, China
     year: '2020'
   eHZrfg4AAAAJ:_kc_bZDykSQC:
@@ -106,6 +106,6 @@ papers:
     title: Authenticity survey of Cuscutae Semen on markets using DNA barcoding
     year: '2017'
   eHZrfg4AAAAJ:zYLM7Y9cAGgC:
-    citations: 78
+    citations: 77
     title: Microbial Community Changes in the Rhizosphere Soil of Healthy and Rusty Panax ginseng and Discovery of Pivotal Fungal Genera Associated with Rusty Roots
     year: '2020'
