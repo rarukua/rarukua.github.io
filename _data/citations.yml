@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-18'
 papers:
   eHZrfg4AAAAJ:0EnyYjriUFMC:
     citations: 7
     title: "The miRNA Profile of Inflammatory Colorectal Tumors Identify TGF-\u03B2 as a Companion Target for Checkpoint Blockade Immunotherapy"
     year: '2021'
   eHZrfg4AAAAJ:2osOgNQ5qMEC:
-    citations: 25
+    citations: 26
     title: Rapid Authentication of Ginkgo biloba Herbal Products Using the Recombinase Polymerase Amplification Assay
     year: '2018'
   eHZrfg4AAAAJ:3fE2CSJIrl8C:
@@ -22,7 +22,7 @@ papers:
     title: "Pan\u2010cancer analyses of bromodomain containing 9 as a novel therapeutic target reveals its diagnostic, prognostic potential and biological mechanism in human tumours"
     year: '2024'
   eHZrfg4AAAAJ:5nxA0vEk-isC:
-    citations: 56
+    citations: 57
     title: 'Analysis and performance assessment of the whole genome bisulfite sequencing data workflow: currently available tools and a practical guide to advance DNA methylation studies'
     year: '2022'
   eHZrfg4AAAAJ:8k81kl-MbHgC:
@@ -38,7 +38,7 @@ papers:
     title: Detection of Ophiocordyceps sinensis and Its Common Adulterates Using Species-Specific Primers
     year: '2017'
   eHZrfg4AAAAJ:IjCSPb-OGe4C:
-    citations: 92
+    citations: 89
     title: 'Values, properties and utility of different parts of Moringa oleifera: An overview'
     year: '2018'
   eHZrfg4AAAAJ:KlAtU1dfN6UC:
@@ -62,7 +62,7 @@ papers:
     title: Identification of Chinese patent medicines containing Fritillariae cirrhosae bulbus using ITS2 region
     year: '2018'
   eHZrfg4AAAAJ:Wp0gIr-vW9MC:
-    citations: 2
+    citations: 3
     title: Liquid biopsy diagnostics for non-small cell lung cancer via elucidation of tRNA signatures
     year: '2025'
   eHZrfg4AAAAJ:Y0pCki6q_DkC:
@@ -74,7 +74,7 @@ papers:
     title: Mechanisms of Chinese medical formula Fangji Huangqi Decoction as an effective treatment of nephrotic syndrome based on systems pharmacology
     year: Unknown Year
   eHZrfg4AAAAJ:YsMSGLbcyi4C:
-    citations: 514
+    citations: 511
     title: Risk factors associated with clinical outcomes in 323 coronavirus disease 2019 (COVID-19) hospitalized patients in Wuhan, China
     year: '2020'
   eHZrfg4AAAAJ:_kc_bZDykSQC:
@@ -82,7 +82,7 @@ papers:
     title: Risk Factors Associated with Clinical Outcomes in 323 COVID-19 Patients in Wuhan, China. medRxiv 2020
     year: '2013'
   eHZrfg4AAAAJ:d1gkVwhDpl0C:
-    citations: 44
+    citations: 45
     title: Derivative technology of DNA barcoding (nucleotide signature and SNP double peak methods) detects adulterants and substitution in Chinese patent medicines
     year: '2017'
   eHZrfg4AAAAJ:kNdYIx-mwKoC:
@@ -94,7 +94,7 @@ papers:
     title: Integrative epitranscriptomic and transcriptomic characterization in human colorectal cancer
     year: '2025'
   eHZrfg4AAAAJ:qjMakFHDy7sC:
-    citations: 121
+    citations: 120
     title: 'DNA mini-barcoding: a derived barcoding method for herbal molecular identification'
     year: '2019'
   eHZrfg4AAAAJ:qxL8FJ1GzNcC:
@@ -106,6 +106,6 @@ papers:
     title: Authenticity survey of Cuscutae Semen on markets using DNA barcoding
     year: '2017'
   eHZrfg4AAAAJ:zYLM7Y9cAGgC:
-    citations: 77
+    citations: 79
     title: Microbial Community Changes in the Rhizosphere Soil of Healthy and Rusty Panax ginseng and Discovery of Pivotal Fungal Genera Associated with Rusty Roots
     year: '2020'
