@@ -1,6 +1,6 @@
 ---
 layout: page
-title: When Chemotherapy Feeds the Tumor: The Hidden Cost of Platinum-Induced Senescence
+title: "When Chemotherapy Feeds the Tumor: The Hidden Cost of Platinum-Induced Senescence"
 description: The Dark Side of Platinum
 img: assets/img/022026/3-early-chemotherapy-dose-reductions-1500-WEB.jpg
 importance: 2
