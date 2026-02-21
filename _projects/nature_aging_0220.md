@@ -86,3 +86,5 @@ Consideration of patient age as a modifier of therapy-induced microenvironmental
 
 Rather than viewing chemotherapy purely as a cytotoxic weapon, this study encourages us to think of it as a microenvironmental sculptor. Understanding and counteracting the unintended consequences of that remodeling may be essential for improving long-term outcomes.
 
+Cover picture comes from https://www.cancertodaymag.org/winter2019-2020/early-chemotherapy-dose-reductions-may-affect-breast-cancer-outcomes/
+
