@@ -4,7 +4,7 @@ title: Comprehensive landscape of tRNA-derived fragments in lung cancer
 subtitle: Diagnostic and prognostic tRDF signatures in NSCLC
 img: assets/img/tRDF/graphical abstract.png
 description: tDRF profiling, diagnostic signatures, plasma validation, and immunotherapy associations
-category: work
+category: project
 importance: 3
 ---
 **Paper:** 
