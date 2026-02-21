@@ -46,9 +46,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-when-chemotherapy-feeds-the-tumor-the-hidden-cost-of-platinum-induced-senescence",
+          title: 'When Chemotherapy Feeds the Tumor: The Hidden Cost of Platinum-Induced Senescence',
+          description: "The Dark Side of Platinum",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nature_aging_0220/";
             },},{id: "projects-novel-non-small-cell-lung-cancer-nsclc-diagnosis-panel-from-small-rna-pirna",
