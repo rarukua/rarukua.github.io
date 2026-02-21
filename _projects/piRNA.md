@@ -4,7 +4,7 @@ title: Novel non-small cell lung cancer(NSCLC) diagnosis panel from small RNA (p
 description: piTPI risk score for early-stage NSCLC
 img: assets/img/piTPI/graphical_abstract.jpg
 importance: 2
-category: work
+category: project
 
 ---
 **Paper:** 
