@@ -42,11 +42,7 @@ If you expose untreated cancer cells to the secretions of platinum-induced senes
 
 They induce senescence in A549 lung cancer cells using cisplatin and confirm classic markers of senescence. Then they collect the conditioned medium from these senescent cells, essentially capturing the SASP, and apply it to fresh, non-senescent tumor cells. 
 
-
-
 What happens is striking. Conditioned medium from cisplatin-induced senescent cells increases proliferation, migration, colony formation, and sphere formation in recipient tumor cells. In contrast, conditioned media from senescence induced by other agents, such as docetaxel or palbociclib, does not produce the same pro-tumorigenic effect. 
-
-
 
 This is a critical logical step. It shows that not all senescence is equal. The secretory phenotype depends on how senescence is induced, and platinum-induced senescence appears uniquely tumor promoting.
 
