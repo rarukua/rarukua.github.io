@@ -50,6 +50,11 @@ ninja.data = [{
           title: 'Novel non-small cell lung cancer(NSCLC) diagnosis panel from small RNA (piRNA)',
           description: "piTPI risk score for early-stage NSCLC",
           section: "Projects",handler: () => {
+              window.location.href = "/projects/nature_aging_0220/";
+            },},{id: "projects-novel-non-small-cell-lung-cancer-nsclc-diagnosis-panel-from-small-rna-pirna",
+          title: 'Novel non-small cell lung cancer(NSCLC) diagnosis panel from small RNA (piRNA)',
+          description: "piTPI risk score for early-stage NSCLC",
+          section: "Projects",handler: () => {
               window.location.href = "/projects/piRNA/";
             },},{id: "projects-comprehensive-landscape-of-trna-derived-fragments-in-lung-cancer",
           title: 'Comprehensive landscape of tRNA-derived fragments in lung cancer',
