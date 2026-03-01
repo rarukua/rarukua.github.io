@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. | Bioinformatics | Liquid Biopsy | Precision Medicine｜Patent Agent
+subtitle: Ph.D. | Bioinformatics | Liquid Biopsy | Precision Medicine ｜Patent Agent
 
 profile:
   align: right
