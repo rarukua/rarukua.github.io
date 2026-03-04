@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-03-04'
 papers:
   eHZrfg4AAAAJ:0EnyYjriUFMC:
     citations: 7
     title: "The miRNA Profile of Inflammatory Colorectal Tumors Identify TGF-\u03B2 as a Companion Target for Checkpoint Blockade Immunotherapy"
     year: '2021'
   eHZrfg4AAAAJ:2osOgNQ5qMEC:
-    citations: 26
+    citations: 27
     title: Rapid Authentication of Ginkgo biloba Herbal Products Using the Recombinase Polymerase Amplification Assay
     year: '2018'
   eHZrfg4AAAAJ:3fE2CSJIrl8C:
-    citations: 22
+    citations: 23
     title: Comprehensive landscape of tRNA-derived fragments in lung cancer
     year: '2022'
   eHZrfg4AAAAJ:4DMP91E08xMC:
@@ -38,7 +38,7 @@ papers:
     title: Detection of Ophiocordyceps sinensis and Its Common Adulterates Using Species-Specific Primers
     year: '2017'
   eHZrfg4AAAAJ:IjCSPb-OGe4C:
-    citations: 89
+    citations: 90
     title: 'Values, properties and utility of different parts of Moringa oleifera: An overview'
     year: '2018'
   eHZrfg4AAAAJ:KlAtU1dfN6UC:
@@ -62,7 +62,7 @@ papers:
     title: Identification of Chinese patent medicines containing Fritillariae cirrhosae bulbus using ITS2 region
     year: '2018'
   eHZrfg4AAAAJ:Wp0gIr-vW9MC:
-    citations: 3
+    citations: 5
     title: Liquid biopsy diagnostics for non-small cell lung cancer via elucidation of tRNA signatures
     year: '2025'
   eHZrfg4AAAAJ:Y0pCki6q_DkC:
@@ -90,7 +90,7 @@ papers:
     title: Mitochondria-derived small RNAs as diagnostic biomarkers in lung cancer patients through a novel ratio-based expression analysis methodology
     year: '2023'
   eHZrfg4AAAAJ:mVmsd5A6BfQC:
-    citations: 1
+    citations: 2
     title: Integrative epitranscriptomic and transcriptomic characterization in human colorectal cancer
     year: '2025'
   eHZrfg4AAAAJ:qjMakFHDy7sC:
@@ -106,6 +106,6 @@ papers:
     title: Authenticity survey of Cuscutae Semen on markets using DNA barcoding
     year: '2017'
   eHZrfg4AAAAJ:zYLM7Y9cAGgC:
-    citations: 79
+    citations: 80
     title: Microbial Community Changes in the Rhizosphere Soil of Healthy and Rusty Panax ginseng and Discovery of Pivotal Fungal Genera Associated with Rusty Roots
     year: '2020'
