@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-13'
 papers:
   eHZrfg4AAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -18,11 +18,11 @@ papers:
     title: "A robust machine learning model based on ribosomal\u2010subunit\u2010derived piRNAs for diagnostic potential of nonsmall cell lung cancer across multicentre, large\u2010scale of sequencing data"
     year: '2025'
   eHZrfg4AAAAJ:4TOpqqG69KYC:
-    citations: 20
+    citations: 21
     title: "Pan\u2010cancer analyses of bromodomain containing 9 as a novel therapeutic target reveals its diagnostic, prognostic potential and biological mechanism in human tumours"
     year: '2024'
   eHZrfg4AAAAJ:5nxA0vEk-isC:
-    citations: 59
+    citations: 61
     title: 'Analysis and performance assessment of the whole genome bisulfite sequencing data workflow: currently available tools and a practical guide to advance DNA methylation studies'
     year: '2022'
   eHZrfg4AAAAJ:8k81kl-MbHgC:
@@ -38,7 +38,7 @@ papers:
     title: Detection of Ophiocordyceps sinensis and Its Common Adulterates Using Species-Specific Primers
     year: '2017'
   eHZrfg4AAAAJ:IjCSPb-OGe4C:
-    citations: 91
+    citations: 92
     title: 'Values, properties and utility of different parts of Moringa oleifera: An overview'
     year: '2018'
   eHZrfg4AAAAJ:KlAtU1dfN6UC:
