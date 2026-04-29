@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-29'
 papers:
   eHZrfg4AAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -10,7 +10,7 @@ papers:
     title: Rapid Authentication of Ginkgo biloba Herbal Products Using the Recombinase Polymerase Amplification Assay
     year: '2018'
   eHZrfg4AAAAJ:3fE2CSJIrl8C:
-    citations: 23
+    citations: 24
     title: Comprehensive landscape of tRNA-derived fragments in lung cancer
     year: '2022'
   eHZrfg4AAAAJ:4DMP91E08xMC:
@@ -22,7 +22,7 @@ papers:
     title: "Pan\u2010cancer analyses of bromodomain containing 9 as a novel therapeutic target reveals its diagnostic, prognostic potential and biological mechanism in human tumours"
     year: '2024'
   eHZrfg4AAAAJ:5nxA0vEk-isC:
-    citations: 61
+    citations: 62
     title: 'Analysis and performance assessment of the whole genome bisulfite sequencing data workflow: currently available tools and a practical guide to advance DNA methylation studies'
     year: '2022'
   eHZrfg4AAAAJ:8k81kl-MbHgC:
@@ -42,7 +42,7 @@ papers:
     title: 'Values, properties and utility of different parts of Moringa oleifera: An overview'
     year: '2018'
   eHZrfg4AAAAJ:KlAtU1dfN6UC:
-    citations: 3
+    citations: 4
     title: Integrated analysis of bulk RNA-seq and single-cell RNA-seq unravels the influences of SARS-CoV-2 infections to cancer patients
     year: '2022'
   eHZrfg4AAAAJ:MXK_kJrjxJIC:
@@ -94,7 +94,7 @@ papers:
     title: Integrative epitranscriptomic and transcriptomic characterization in human colorectal cancer
     year: '2025'
   eHZrfg4AAAAJ:qjMakFHDy7sC:
-    citations: 123
+    citations: 124
     title: 'DNA mini-barcoding: a derived barcoding method for herbal molecular identification'
     year: '2019'
   eHZrfg4AAAAJ:qxL8FJ1GzNcC:
@@ -106,6 +106,6 @@ papers:
     title: Authenticity survey of Cuscutae Semen on markets using DNA barcoding
     year: '2017'
   eHZrfg4AAAAJ:zYLM7Y9cAGgC:
-    citations: 80
+    citations: 81
     title: Microbial Community Changes in the Rhizosphere Soil of Healthy and Rusty Panax ginseng and Discovery of Pivotal Fungal Genera Associated with Rusty Roots
     year: '2020'
