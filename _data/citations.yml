@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-20'
 papers:
   eHZrfg4AAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -26,7 +26,7 @@ papers:
     title: 'Analysis and performance assessment of the whole genome bisulfite sequencing data workflow: currently available tools and a practical guide to advance DNA methylation studies'
     year: '2022'
   eHZrfg4AAAAJ:8k81kl-MbHgC:
-    citations: 23
+    citations: 24
     title: "Association of Septic Shock with Mortality in Hospitalized COVID\u201019 Patients in Wuhan, China"
     year: '2022'
   eHZrfg4AAAAJ:9ZlFYXVOiuMC:
@@ -38,7 +38,7 @@ papers:
     title: Detection of Ophiocordyceps sinensis and Its Common Adulterates Using Species-Specific Primers
     year: '2017'
   eHZrfg4AAAAJ:IjCSPb-OGe4C:
-    citations: 92
+    citations: 93
     title: 'Values, properties and utility of different parts of Moringa oleifera: An overview'
     year: '2018'
   eHZrfg4AAAAJ:KlAtU1dfN6UC:
@@ -90,11 +90,11 @@ papers:
     title: Mitochondria-derived small RNAs as diagnostic biomarkers in lung cancer patients through a novel ratio-based expression analysis methodology
     year: '2023'
   eHZrfg4AAAAJ:mVmsd5A6BfQC:
-    citations: 2
+    citations: 3
     title: Integrative epitranscriptomic and transcriptomic characterization in human colorectal cancer
     year: '2025'
   eHZrfg4AAAAJ:qjMakFHDy7sC:
-    citations: 125
+    citations: 126
     title: 'DNA mini-barcoding: a derived barcoding method for herbal molecular identification'
     year: '2019'
   eHZrfg4AAAAJ:qxL8FJ1GzNcC:
