@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-15'
 papers:
   eHZrfg4AAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -22,11 +22,11 @@ papers:
     title: "Pan\u2010cancer analyses of bromodomain containing 9 as a novel therapeutic target reveals its diagnostic, prognostic potential and biological mechanism in human tumours"
     year: '2024'
   eHZrfg4AAAAJ:5nxA0vEk-isC:
-    citations: 69
+    citations: 71
     title: 'Analysis and performance assessment of the whole genome bisulfite sequencing data workflow: currently available tools and a practical guide to advance DNA methylation studies'
     year: '2022'
   eHZrfg4AAAAJ:8k81kl-MbHgC:
-    citations: 25
+    citations: 24
     title: "Association of Septic Shock with Mortality in Hospitalized COVID\u201019 Patients in Wuhan, China"
     year: '2022'
   eHZrfg4AAAAJ:9ZlFYXVOiuMC:
@@ -34,7 +34,7 @@ papers:
     title: Research Article Association of Septic Shock with Mortality in Hospitalized COVID-19 Patients in Wuhan, China
     year: '2022'
   eHZrfg4AAAAJ:9yKSN-GCB0IC:
-    citations: 38
+    citations: 39
     title: Detection of Ophiocordyceps sinensis and Its Common Adulterates Using Species-Specific Primers
     year: '2017'
   eHZrfg4AAAAJ:IjCSPb-OGe4C:
@@ -48,6 +48,10 @@ papers:
   eHZrfg4AAAAJ:MXK_kJrjxJIC:
     citations: 0
     title: Six potential biomarkers for non-small cell lung cancer diagnosis and prognosis
+    year: '2022'
+  eHZrfg4AAAAJ:QIV2ME_5wuYC:
+    citations: 6
+    title: "Analysis and performance assessment of the whole genome bisulfite sequencing data workflow: currently available tools and a practical guide to advance DNA methylation studies \u2026"
     year: '2022'
   eHZrfg4AAAAJ:Tyk-4Ss8FVUC:
     citations: 8
@@ -94,7 +98,7 @@ papers:
     title: Integrative epitranscriptomic and transcriptomic characterization in human colorectal cancer
     year: '2025'
   eHZrfg4AAAAJ:qjMakFHDy7sC:
-    citations: 134
+    citations: 135
     title: 'DNA mini-barcoding: a derived barcoding method for herbal molecular identification'
     year: '2019'
   eHZrfg4AAAAJ:qxL8FJ1GzNcC:
