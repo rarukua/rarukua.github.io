@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-20'
 papers:
   eHZrfg4AAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -14,7 +14,7 @@ papers:
     title: Comprehensive landscape of tRNA-derived fragments in lung cancer
     year: '2022'
   eHZrfg4AAAAJ:4DMP91E08xMC:
-    citations: 2
+    citations: 3
     title: "A robust machine learning model based on ribosomal\u2010subunit\u2010derived piRNAs for diagnostic potential of nonsmall cell lung cancer across multicentre, large\u2010scale of sequencing data"
     year: '2025'
   eHZrfg4AAAAJ:4TOpqqG69KYC:
@@ -22,11 +22,11 @@ papers:
     title: "Pan\u2010cancer analyses of bromodomain containing 9 as a novel therapeutic target reveals its diagnostic, prognostic potential and biological mechanism in human tumours"
     year: '2024'
   eHZrfg4AAAAJ:5nxA0vEk-isC:
-    citations: 71
+    citations: 73
     title: 'Analysis and performance assessment of the whole genome bisulfite sequencing data workflow: currently available tools and a practical guide to advance DNA methylation studies'
     year: '2022'
   eHZrfg4AAAAJ:8k81kl-MbHgC:
-    citations: 24
+    citations: 25
     title: "Association of Septic Shock with Mortality in Hospitalized COVID\u201019 Patients in Wuhan, China"
     year: '2022'
   eHZrfg4AAAAJ:9ZlFYXVOiuMC:
@@ -94,11 +94,11 @@ papers:
     title: Mitochondria-derived small RNAs as diagnostic biomarkers in lung cancer patients through a novel ratio-based expression analysis methodology
     year: '2023'
   eHZrfg4AAAAJ:mVmsd5A6BfQC:
-    citations: 3
+    citations: 4
     title: Integrative epitranscriptomic and transcriptomic characterization in human colorectal cancer
     year: '2025'
   eHZrfg4AAAAJ:qjMakFHDy7sC:
-    citations: 135
+    citations: 137
     title: 'DNA mini-barcoding: a derived barcoding method for herbal molecular identification'
     year: '2019'
   eHZrfg4AAAAJ:qxL8FJ1GzNcC:
