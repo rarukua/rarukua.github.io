@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-29'
 papers:
   eHZrfg4AAAAJ:0EnyYjriUFMC:
     citations: 8
     title: "The miRNA Profile of Inflammatory Colorectal Tumors Identify TGF-\u03B2 as a Companion Target for Checkpoint Blockade Immunotherapy"
     year: '2021'
   eHZrfg4AAAAJ:2osOgNQ5qMEC:
-    citations: 27
+    citations: 28
     title: Rapid Authentication of Ginkgo biloba Herbal Products Using the Recombinase Polymerase Amplification Assay
     year: '2018'
   eHZrfg4AAAAJ:3fE2CSJIrl8C:
@@ -14,7 +14,7 @@ papers:
     title: Comprehensive landscape of tRNA-derived fragments in lung cancer
     year: '2022'
   eHZrfg4AAAAJ:4DMP91E08xMC:
-    citations: 3
+    citations: 2
     title: "A robust machine learning model based on ribosomal\u2010subunit\u2010derived piRNAs for diagnostic potential of nonsmall cell lung cancer across multicentre, large\u2010scale of sequencing data"
     year: '2025'
   eHZrfg4AAAAJ:4TOpqqG69KYC:
@@ -22,7 +22,7 @@ papers:
     title: "Pan\u2010cancer analyses of bromodomain containing 9 as a novel therapeutic target reveals its diagnostic, prognostic potential and biological mechanism in human tumours"
     year: '2024'
   eHZrfg4AAAAJ:5nxA0vEk-isC:
-    citations: 73
+    citations: 74
     title: 'Analysis and performance assessment of the whole genome bisulfite sequencing data workflow: currently available tools and a practical guide to advance DNA methylation studies'
     year: '2022'
   eHZrfg4AAAAJ:8k81kl-MbHgC:
@@ -62,7 +62,7 @@ papers:
     title: Identifying plasma exosomal small non-coding RNAs as potential biomarkers for lung cancer early detection
     year: '2023'
   eHZrfg4AAAAJ:UeHWp8X0CEIC:
-    citations: 3
+    citations: 4
     title: Identification of Chinese patent medicines containing Fritillariae cirrhosae bulbus using ITS2 region
     year: '2018'
   eHZrfg4AAAAJ:Wp0gIr-vW9MC:
